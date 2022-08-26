@@ -24,7 +24,7 @@ TERIMAKASIH  BUAT YANG SUDAH MAU BERDONASI😉
            hydratedButtons: [{
              urlButton: {
                displayText: 'My Youtube📸',
-               url: 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg',
+               url: 'https://youtube.com/channel/UCBXxwxmC7bJpG4e3rSRiC7g',
              }
 
            },
