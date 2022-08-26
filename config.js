@@ -10,7 +10,7 @@ global.mods = ['6289509381243'] //ganti pakai nomormu biar bot berfungsi
 global.prems = ['6289509381243'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ DaniBotzOffcོ_1ঔৣ꧂'
+global.nameowner = 'ᴹᴿ᭄ Farizdbotzঔৣ꧂'
 global.numberowner = '6289509381243' //ganti pakai nomor mu
 global.instagram = 'https://www.instagram.com/invites/contact/?i=12al55lyhapa8&utm_content=nxm6706' //ganti pakai Instagram mu
 global.github = 'https://github.com/YTDANIBOTZ' //ganti aja pakai githubmu
@@ -25,7 +25,7 @@ global.pulsa = '"_"' //ganti pakai nomor pulsa mu
 global.gopay = '"_"' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Danibotz-Ofc⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
+global.namebot = '❋ཻུ۪۪⸙Farizdbotz⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
 global.gc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd' //ganti pakai grup mu
 global.web = 'https://youtube.com/channel/UCBXxwxmC7bJpG4e3rSRiC7g' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://www.instagram.com/invites/contact/?i=12al55lyhapa8&utm_content=nxm6706' //ganti pakai Instagram mu
@@ -45,11 +45,11 @@ global.fotonya8 = 'https://telegra.ph/file/8af88b31d89db011ff886.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/4720d8dc811569a29e48f.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪Danibotz-Ofc⳹ ❋ཻུ۪۪'
+global.wm = '❋ཻུ۪۪Farizdbotz⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜDani_ofcོ1꧅'
-global.wm3 = 'ᯤ Dani Offcial'
-global.titlebot = 'ᗪani Offcial ✯✯✯✯✯'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜFarizdbotz꧅'
+global.wm3 = 'ᯤ Fariz Offcial'
+global.titlebot = 'Fariz Offcial ✯✯✯✯✯'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -59,8 +59,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'DaniBotz-Ofc'
-global.author = '@Dani Official'
+global.packname = 'Farizdbotz'
+global.author = '@Farizdbotz'
 global.bg = 'await(await fetch(https://telegra.ph/file/4a7e5f18efaadec18a7a0.jpg)).buffer()'
 
 
