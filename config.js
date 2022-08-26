@@ -20,9 +20,9 @@ global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
 global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
 global.snh = 'https://nhentai.net/g/365296/'
 global.yt = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg'
-global.dana = '081251549899' //ganti pakai nomor dana mu
-global.pulsa = '081352848936' //ganti pakai nomor pulsa mu
-global.gopay = '081352848936' //ganti pakai nomor Gopay mu
+global.dana = '089509381243' //ganti pakai nomor dana mu
+global.pulsa = '"_"' //ganti pakai nomor pulsa mu
+global.gopay = '"_"' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Danibotz-Ofc⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
