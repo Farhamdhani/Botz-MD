@@ -19,7 +19,7 @@ global.sc = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg' //jngn ganti 
 global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
 global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
 global.snh = 'https://nhentai.net/g/365296/'
-global.yt = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg'
+global.yt = 'https://youtube.com/channel/UCBXxwxmC7bJpG4e3rSRiC7g'
 global.dana = '089509381243' //ganti pakai nomor dana mu
 global.pulsa = '"_"' //ganti pakai nomor pulsa mu
 global.gopay = '"_"' //ganti pakai nomor Gopay mu
@@ -27,7 +27,7 @@ global.gopay = '"_"' //ganti pakai nomor Gopay mu
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Danibotz-Ofc⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
 global.gc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd' //ganti pakai grup mu
-global.web = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://youtube.com/channel/UCBXxwxmC7bJpG4e3rSRiC7g' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://www.instagram.com/danibotz_official' //ganti pakai Instagram mu
 global.saweria = '"_"' //bebas ganti aja pakai apa
 global.nomer = 'https://wa.me/6289509381243' //ganti jadi nomor mu
