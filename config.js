@@ -13,7 +13,7 @@ global.prems = ['6289509381243'] //ganti pakai nomormu biar bot berfungsi
 global.nameowner = 'ᴹᴿ᭄ Farizdbotzঔৣ꧂'
 global.numberowner = '6289509381243' //ganti pakai nomor mu
 global.instagram = 'https://www.instagram.com/invites/contact/?i=12al55lyhapa8&utm_content=nxm6706' //ganti pakai Instagram mu
-global.github = 'https://github.com/YTDANIBOTZ' //ganti aja pakai githubmu
+global.github = 'https://github.com/Farhamdhani' //ganti aja pakai githubmu
 global.tt = '"_"' //ganti aja pakai tiktok mu
 global.sc = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg' //jngn ganti hargai creator
 global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
